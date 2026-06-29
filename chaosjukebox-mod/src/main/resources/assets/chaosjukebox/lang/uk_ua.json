@@ -1,0 +1,9 @@
+{
+  "block.chaosjukebox.stream_jukebox": "Хаос-бумбокс",
+  "item.chaosjukebox.stream_jukebox": "Хаос-бумбокс",
+  "gui.chaosjukebox.title": "Хаос-бумбокс",
+  "gui.chaosjukebox.url_field": "Посилання YouTube",
+  "gui.chaosjukebox.url_placeholder": "Вставте посилання на YouTube...",
+  "gui.chaosjukebox.play": "Грати",
+  "gui.chaosjukebox.stop": "Стоп"
+}

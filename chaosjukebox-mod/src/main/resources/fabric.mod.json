@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "chaosjukebox",
+  "version": "${version}",
+  "name": "Chaos Jukebox",
+  "description": "Блок, що крафтиться з 4 земель і грає звук/музику з YouTube на відстані до 30 блоків.",
+  "authors": ["you"],
+  "contact": {},
+  "license": "CC0-1.0",
+  "icon": "assets/chaosjukebox/textures/block/stream_jukebox.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.chaosjukebox.ChaosJukeboxMod"
+    ],
+    "client": [
+      "net.chaosjukebox.client.ChaosJukeboxClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": "~26.2",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
