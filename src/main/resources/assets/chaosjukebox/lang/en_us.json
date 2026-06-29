@@ -1,0 +1,9 @@
+{
+  "block.chaosjukebox.stream_jukebox": "Chaos Jukebox",
+  "item.chaosjukebox.stream_jukebox": "Chaos Jukebox",
+  "gui.chaosjukebox.title": "Chaos Jukebox",
+  "gui.chaosjukebox.url_field": "YouTube link",
+  "gui.chaosjukebox.url_placeholder": "Paste a YouTube link here...",
+  "gui.chaosjukebox.play": "Play",
+  "gui.chaosjukebox.stop": "Stop"
+}

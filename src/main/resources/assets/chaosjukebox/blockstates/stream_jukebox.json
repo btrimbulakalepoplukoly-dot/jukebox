@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "chaosjukebox:block/stream_jukebox"
+    }
+  }
+}
